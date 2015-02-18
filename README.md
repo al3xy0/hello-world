@@ -1,2 +1,3 @@
 # hello-world
 First time trying GitHub.
+Its my first day at GitHub - i work for a spectacular company...
